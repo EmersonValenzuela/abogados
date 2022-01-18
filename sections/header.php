@@ -105,7 +105,7 @@
 
 							<!-- Btn Box -->
 							<div class="btn-box">
-								<a href="contact.php" class="theme-btn btn-style-two"><span class="txt">Contact US</span></a>
+								<a href="contact.php" class="theme-btn btn-style-two"><span class="txt">Contactanos</span></a>
 							</div>
 
 							<!-- Mobile Navigation Toggler -->

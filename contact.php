@@ -5,10 +5,10 @@ include("sections/header.php");
 <!-- Page Title -->
 <section class="page-title" style="background-image:url(images/background/1.jpg)">
 	<div class="auto-container">
-		<h1>Conttactanos</h1>
+		<h1>Contactanos</h1>
 		<ul class="page-breadcrumb">
-			<li><a href="index.html">home</a></li>
-			<li>Contact Us</li>
+			<li><a href="index.php">Inicio</a></li>
+			<li>Contactanos</li>
 		</ul>
 	</div>
 </section>
@@ -35,7 +35,7 @@ include("sections/header.php");
 	<div class="auto-container">
 		<!-- Sec Title -->
 		<div class="sec-title centered">
-			<h2>Send us a message</h2>
+			<h2>Mandanos tu Mensaje</h2>
 		</div>
 		<!-- Contact Form -->
 		<div class="contact-form">
@@ -45,23 +45,23 @@ include("sections/header.php");
 				<div class="row clearfix">
 
 					<div class="col-lg-4 col-md-6 col-sm-12 form-group">
-						<input type="text" name="username" placeholder="Name" required="">
+						<input type="text" name="username" placeholder="Nombre" required="">
 					</div>
 
 					<div class="col-lg-4 col-md-6 col-sm-12 form-group">
-						<input type="email" name="email" placeholder="Email" required="">
+						<input type="email" name="email" placeholder="Gmail" required="">
 					</div>
 
 					<div class="col-lg-4 col-md-12 col-sm-12 form-group">
-						<input type="text" name="phone" placeholder="Phone" required="">
+						<input type="text" name="phone" placeholder="Celular" required="">
 					</div>
 
 					<div class="col-lg-12 col-md-12 col-sm-12 form-group">
-						<textarea name="message" placeholder="Message"></textarea>
+						<textarea name="message" placeholder="Mensaje"></textarea>
 					</div>
 
 					<div class="col-lg-12 col-md-12 col-sm-12 form-group text-center">
-						<button class="theme-btn btn-style-two" type="submit" name="submit-form"><span class="txt">Submit now <i class="arrow flaticon-right"></i></span></button>
+						<button class="theme-btn btn-style-two" type="submit" name="submit-form"><span class="txt">Enviar<i class="arrow flaticon-right"></i></span></button>
 					</div>
 
 				</div>
@@ -78,7 +78,7 @@ include("sections/header.php");
 	<div class="auto-container">
 		<!-- Sec Title -->
 		<div class="sec-title centered">
-			<h2>Our Infromation</h2>
+			<h2>Más Información</h2>
 		</div>
 		<div class="row clearfix">
 
@@ -86,7 +86,7 @@ include("sections/header.php");
 			<div class="info-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="icon flaticon-location-pin"></div>
-					<h5>Location</h5>
+					<h5>Ubicación</h5>
 					<div class="text">121 King Street Melbourne, <br> 3000, Australia</div>
 				</div>
 			</div>
@@ -95,7 +95,7 @@ include("sections/header.php");
 			<div class="info-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="icon flaticon-smartphone"></div>
-					<h5>Phone</h5>
+					<h5>Telefono</h5>
 					<ul class="info-list">
 						<li><a href="tel:+0-589-96369-95823">0-589-96369-95823</a></li>
 						<li><a href="tel:+0-825-63596-471254">0-825-63596-471254</a></li>
@@ -107,7 +107,7 @@ include("sections/header.php");
 			<div class="info-block col-lg-4 col-md-6 col-sm-12">
 				<div class="inner-box">
 					<div class="icon flaticon-email-3"></div>
-					<h5>Email</h5>
+					<h5>Gmail</h5>
 					<ul class="info-list">
 						<li><a href="mailto:Counsellaw@gmail.com">Counsellaw@gmail.com</a></li>
 						<li><a href="mailto:info@counsellaw.com">info@counsellaw.com</a></li>
