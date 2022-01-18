@@ -36,7 +36,7 @@
 				<div class="auto-container clearfix">
 
 					<div class="pull-left logo-box">
-						<div class="logo"><a href="index.php"><img src="images/fontsLogo_white.png" alt="" title=""></a></div>
+						<div class="logo"><a href="index.php"><img src="images/fontsLogo_white3.png" alt="" title=""></a></div>
 					</div>
 
 					<div class="nav-outer clearfix">
@@ -91,7 +91,7 @@
 				<div class="auto-container clearfix">
 					<!--Logo-->
 					<div class="logo pull-left">
-						<a href="index.php" title=""><img src="images/fontsLogo2.png" alt="" title=""></a>
+						<a href="index.php" title=""><img src="images/logoBlack.png" alt="" title=""></a>
 					</div>
 					<!--Right Col-->
 					<div class="pull-right">

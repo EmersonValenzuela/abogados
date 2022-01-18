@@ -34,7 +34,7 @@
 								<div class="footer-column col-lg-7 col-md-6 col-sm-12">
 									<div class="footer-widget logo-widget">
 										<div class="logo">
-											<a href="index.html"><img src="images/fontsLogo_white.png" alt=""></a>
+											<a href="index.html"><img src="images/fontsLogo_white3.png" alt=""></a>
 										</div>
 										<div class="text">Somos un equipo especializado en el asesoramiento a empresas o personas naturales...</div>
 										<!-- Social Nav -->
