@@ -74,8 +74,8 @@
 							<div class="phone-box">
 								<div class="box-inner">
 									<span class="icon flaticon-smartphone-1"></span>
-									Call US Today!
-									<strong>+61 3 8376 6284</strong>
+									¡Llámenos hoy!
+									<strong>981 167 202</strong>
 								</div>
 							</div>
 

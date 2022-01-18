@@ -36,7 +36,7 @@
 										<div class="logo">
 											<a href="index.html"><img src="images/footer-logo.png" alt=""></a>
 										</div>
-										<div class="text">Quis autem vel eum iure reprehenderit aui ea voluptate velit esse molestiae consequatur, vel illum qui dolorem.</div>
+										<div class="text">Somos un equipo especializado en el asesoramiento a empresas o personas naturales...</div>
 										<!-- Social Nav -->
 										<ul class="social-nav">
 											<li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
@@ -49,13 +49,12 @@
 								<!--Footer Column-->
 								<div class="footer-column col-lg-5 col-md-6 col-sm-12">
 									<div class="footer-widget links-widget">
-										<h5>Useful links</h5>
+										<h5>Enlaces</h5>
 										<ul class="footer-list">
-											<li><a href="#">Home</a></li>
-											<li><a href="#">About Us</a></li>
-											<li><a href="#">News</a></li>
-											<li><a href="#">Blog</a></li>
-											<li><a href="#">Contact Us</a></li>
+											<li><a href="index.php">Inicio</a></li>
+											<li><a href="about.php">Nosotros</a></li>
+											<li><a href="services.php">Servicios</a></li>
+											<li><a href="contact.php">Contactanos</a></li>
 										</ul>
 									</div>
 								</div>
@@ -70,44 +69,33 @@
 								<!-- Footer Column -->
 								<div class="footer-column col-lg-6 col-md-6 col-sm-12">
 									<div class="footer-widget contact-widget">
-										<h5>Office Info</h5>
+										<h5>información</h5>
 										<ul>
 											<li>
 												<span class="icon flaticon-call-1"></span>
-												<a href="tel:+61-3-8376-6284">+61 3 8376 6284</a>
+												<a href="tel:+61-3-8376-6284">928 167 202</a>
 											</li>
 											<li>
 												<span class="icon flaticon-call-1"></span>
-												<a href="tel:+00-9-0000-9999">+00 9 0000 9999</a>
+												<a href="tel:+00-9-0000-9999">970 417 920</a>
+											</li>
+											<li>
+												<span class="icon flaticon-call-1"></span>
+												<a href="tel:+00-9-0000-9999">(01) 390 3902</a>
 											</li>
 											<li>
 												<span class="icon flaticon-email-2"></span>
-												<a href="mailto:Info@counsellawfirm.com">Info@counsellawfirm.com</a>
+												<a href="mailto:Info@counsellawfirm.com">abogados.corporativo.planning<br>@gmail.com</a>
 											</li>
 											<li>
 												<span class="icon flaticon-maps-and-flags"></span>
-												21 King Street Melbourne, <br> 3000, Australia
+												Av. Carlos Izaguirre N° 216 (Galería
+												“San Lázaro")
 											</li>
 										</ul>
 									</div>
 								</div>
-
-								<!-- Footer Column -->
-								<div class="footer-column col-lg-6 col-md-6 col-sm-12">
-									<div class="footer-widget newsletter-widget">
-										<h5>Subscribe Now</h5>
-										<div class="text">Quis autem vel eum iure reprehenderit aui ea voluptate.</div>
-										<div class="newsletter-form">
-											<form method="post" action="contact.html">
-												<div class="form-group">
-													<input type="email" name="email" value="" placeholder="Enter Email Address" required="">
-													<button type="submit" class="theme-btn btn-style-one"><span class="txt">Subscribe now <i class="arrow flaticon-right"></i></span></button>
-												</div>
-											</form>
-										</div>
-									</div>
-								</div>
-
+								
 							</div>
 						</div>
 
