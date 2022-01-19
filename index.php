@@ -23,7 +23,7 @@
 								<h1>El mejor Bufete de abogados <br> del Perú</h1>
 								<div class="text">Somos un equipo especializado en el asesoramiento a empresas o personas físicas...</div>
 								<div class="btns-box">
-									<a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Consulta Gratis<i class="arrow flaticon-right"></i></span></a>
+									<a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Consulta Gratis<i class="arrow flaticon-right"></i></span></a>
 								</div>
 							</div>
 						</div>
@@ -41,7 +41,7 @@
 								<h1>El mejor Bufete<br>de abogados</h1>
 								<div class="text">Somos un equipo especializado en el asesoramiento a empresas o personas físicas...</div>
 								<div class="btns-box">
-									<a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Consulta Gratis<i class="arrow flaticon-right"></i></span></a>
+									<a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Consulta Gratis<i class="arrow flaticon-right"></i></span></a>
 								</div>
 							</div>
 						</div>
@@ -59,7 +59,7 @@
 								<h1>El mejor Bufete<br>de abogados</h1>
 								<div class="text">Somos un equipo especializado en el asesoramiento a empresas o personas físicas...</div>
 								<div class="btns-box">
-									<a href="contact.html" class="theme-btn btn-style-one"><span class="txt">Consulta Gratis<i class="arrow flaticon-right"></i></span></a>
+									<a href="contact.php" class="theme-btn btn-style-one"><span class="txt">Consulta Gratis<i class="arrow flaticon-right"></i></span></a>
 								</div>
 							</div>
 						</div>
@@ -83,10 +83,10 @@
 							<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
 								<div class="content">
 									<div class="icon flaticon-file"></div>
-									<h4><a href="corporate_law.html">Derecho Civil</a></h4>
+									<h4><a href="about.php">Derecho Civil</a></h4>
 									<div class="text">El Derecho Civil contempla temas relativos a las personas, los bienes, las sucesiones, las obligaciones y los contratos.</div>
 								</div>
-								<a href="corporate_law.html" class="arrow flaticon-right"></a>
+								<a href="about.php" class="arrow flaticon-right"></a>
 							</div>
 						</div>
 
@@ -95,10 +95,10 @@
 							<div class="inner-box wow fadeInRight" data-wow-delay="0ms" data-wow-duration="1500ms">
 								<div class="content">
 									<div class="icon flaticon-file-1"></div>
-									<h4><a href="corporate_law.html">Derecho Penal</a></h4>
+									<h4><a href="about.php">Derecho Penal</a></h4>
 									<div class="text">El Derecho Penal contempla temas de normas jurídicas por medio de las cuales el Estado define las conductas u omisiones que constituyen delitos.</div>
 								</div>
-								<a href="corporate_law.html" class="arrow flaticon-right"></a>
+								<a href="about.php" class="arrow flaticon-right"></a>
 							</div>
 						</div>
 
@@ -107,10 +107,10 @@
 							<div class="inner-box wow fadeInLeft" data-wow-delay="150ms" data-wow-duration="1500ms">
 								<div class="content">
 									<div class="icon flaticon-umbrella-1"></div>
-									<h4><a href="corporate_law.html">Derecho Laboral</a></h4>
+									<h4><a href="about.php">Derecho Laboral</a></h4>
 									<div class="text">Normas jurídicas que regulan las relaciones entre el trabajador y el patrón; el contrato de trabajo; las condiciones de trabajo tales como la jornada laboral, el salario, los días de descanso, las vacaciones...</div>
 								</div>
-								<a href="corporate_law.html" class="arrow flaticon-right"></a>
+								<a href="about.php" class="arrow flaticon-right"></a>
 							</div>
 						</div>
 
@@ -119,10 +119,10 @@
 							<div class="inner-box wow fadeInRight" data-wow-delay="150ms" data-wow-duration="1500ms">
 								<div class="content">
 									<div class="icon flaticon-group"></div>
-									<h4><a href="corporate_law.html">Derecho Administrativo</a></h4>
+									<h4><a href="about.php">Derecho Administrativo</a></h4>
 									<div class="text">Está formado por un conjunto de normas jurídicas que regulan las relaciones entre las administraciones públicas y los ciudadanos con la finalidad de solucionar los posibles conflictos.</div>
 								</div>
-								<a href="corporate_law.html" class="arrow flaticon-right"></a>
+								<a href="about.php" class="arrow flaticon-right"></a>
 							</div>
 						</div>
 
@@ -160,14 +160,11 @@
 									<div class="text">Estamos formado por un conjunto de normas jurídicas que regulan las relaciones entre las administraciones públicas y los ciudadanos con la finalidad de solucionar los posibles conflictos que puedan aparecer entre estas dos partes.</div>
 								</div>
 								<ul class="list-style-one">
-									<li>Velit esse quam nihil molestiae consequatur, velillu. </li>
-									<li>Qui dolorem eum fugiat quo voluptas nulla pariatur. </li>
-									<li>Aspernatur aut odit aut fugit commodo luis cursus.</li>
-									<li>Ratione voluptatem sequi nesciunt nerue porro.</li>
+
 								</ul>
 								<div class="btns-box">
-									<a href="contact.html" class="theme-btn btn-style-two"><span class="txt">Cotización Gratis<i class="arrow flaticon-right"></i></span></a>
-									<a href="contact.html" class="theme-btn btn-style-three"><span class="txt">Leer más <i class="arrow flaticon-right"></i></span></a>
+									<a href="contact.php" class="theme-btn btn-style-two"><span class="txt">Cotización Gratis<i class="arrow flaticon-right"></i></span></a>
+									<a href="contact.php" class="theme-btn btn-style-three"><span class="txt">Leer más <i class="arrow flaticon-right"></i></span></a>
 								</div>
 							</div>
 						</div>
@@ -192,9 +189,9 @@
 						<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-car-1"></div>
-							<h5><a href="corporate_law.html">Derecho Civil</a></h5>
+							<h5><a href="about.php">Derecho Civil</a></h5>
 							<div class="text">Petición de herencia, indemnización por daños y perjuicios, alimentos, divorcios...</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
+							<a class="arrow flaticon-right-arrow-3" href="about.php"></a>
 						</div>
 					</div>
 
@@ -202,9 +199,9 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-briefcase"></div>
-							<h5><a href="corporate_law.html">Derecho Corporativo</a></h5>
+							<h5><a href="about.php">Derecho Corporativo</a></h5>
 							<div class="text">Reorganizaciones empresariales, sucursales, constitución de empresas, contratos comerciales...</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
+							<a class="arrow flaticon-right-arrow-3" href="about.php"></a>
 						</div>
 					</div>
 
@@ -212,9 +209,9 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-handcuffs-1"></div>
-							<h5><a href="corporate_law.html">Derecho Penal</a></h5>
+							<h5><a href="about.php">Derecho Penal</a></h5>
 							<div class="text">Delitos contra la vida, difamación, acoso, chantaje sexual, robo, estafa...</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
+							<a class="arrow flaticon-right-arrow-3" href="about.php"></a>
 						</div>
 					</div>
 
@@ -222,9 +219,9 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-save-money"></div>
-							<h5><a href="corporate_law.html">Derecho Tributario</a></h5>
+							<h5><a href="about.php">Derecho Tributario</a></h5>
 							<div class="text">Procedimientos tributarios en sede administrativa y/o judicial, devolución de impuestos, retenciones del IGV...</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
+							<a class="arrow flaticon-right-arrow-3" href="about.php"></a>
 						</div>
 					</div>
 
@@ -232,9 +229,9 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-auction"></div>
-							<h5><a href="corporate_law.html">Derecho Laboral</a></h5>
+							<h5><a href="about.php">Derecho Laboral</a></h5>
 							<div class="text">Contratación de personal, procedimientos de fiscalización, procedimientos administrativos y judiciales...</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
+							<a class="arrow flaticon-right-arrow-3" href="about.php"></a>
 						</div>
 					</div>
 
@@ -242,9 +239,9 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-law"></div>
-							<h5><a href="corporate_law.html">Derecho Aduanero y Migratorio</a></h5>
+							<h5><a href="about.php">Derecho Aduanero y Migratorio</a></h5>
 							<div class="text">Obtención del carné de extranjería, prórroga de residencia, regularización migratoria, obtención de la nacionalidad...</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
+							<a class="arrow flaticon-right-arrow-3" href="about.php"></a>
 						</div>
 					</div>
 
@@ -252,9 +249,9 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-balance"></div>
-							<h5><a href="corporate_law.html">Solución de Controversias</a></h5>
+							<h5><a href="about.php">Solución de Controversias</a></h5>
 							<div class="text">Patrocinamos en diferentes procesos judiciales en materia civil, laboral, administrativo, constitucional, penal.</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
+							<a class="arrow flaticon-right-arrow-3" href="about.php"></a>
 						</div>
 					</div>
 
@@ -262,9 +259,9 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-notebook"></div>
-							<h5><a href="corporate_law.html">Derecho Municipal</a></h5>
+							<h5><a href="about.php">Derecho Municipal</a></h5>
 							<div class="text">Elaboramos descargos a papeletas, resoluciones de sanción, procedimientos sancionadores en general. </div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
+							<a class="arrow flaticon-right-arrow-3" href="about.php"></a>
 						</div>
 					</div>
 
@@ -339,7 +336,7 @@
 
 						<!-- Default Form -->
 						<div class="default-form">
-							<form method="post" action="contact.html">
+							<form method="post" action="contact.php">
 								<div class="row clearfix">
 
 									<div class="col-lg-6 col-md-6 col-sm-12 form-group">
@@ -395,9 +392,9 @@
 								<img src="images/resource/team-1.jpg" alt="">
 							</div>
 							<div class="lower-box">
-								<h5><a href="corporate_law.html">Edwin Quichua Pérez</a></h5>
+								<h5><a href="about.php">Edwin Quichua Pérez</a></h5>
 								<div class="designation">Gerente - Abogado</div>
-								<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
+								<a class="arrow flaticon-right-arrow-3" href="about.php"></a>
 							</div>
 						</div>
 					</div>
@@ -409,9 +406,9 @@
 								<img src="images/resource/team-2.jpg" alt="">
 							</div>
 							<div class="lower-box">
-								<h5><a href="corporate_law.html">ALina Kevin</a></h5>
+								<h5><a href="about.php">ALina Kevin</a></h5>
 								<div class="designation">Senior Attorney</div>
-								<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
+								<a class="arrow flaticon-right-arrow-3" href="about.php"></a>
 							</div>
 						</div>
 					</div>
@@ -423,9 +420,9 @@
 								<img src="images/resource/team-3.jpg" alt="">
 							</div>
 							<div class="lower-box">
-								<h5><a href="corporate_law.html">Senior Attorney</a></h5>
+								<h5><a href="about.php">Senior Attorney</a></h5>
 								<div class="designation">Junior Attorney</div>
-								<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
+								<a class="arrow flaticon-right-arrow-3" href="about.php"></a>
 							</div>
 						</div>
 					</div>
@@ -437,9 +434,9 @@
 								<img src="images/resource/team-4.jpg" alt="">
 							</div>
 							<div class="lower-box">
-								<h5><a href="corporate_law.html">Polard Andrew</a></h5>
+								<h5><a href="about.php">Polard Andrew</a></h5>
 								<div class="designation">Financial Attorney</div>
-								<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
+								<a class="arrow flaticon-right-arrow-3" href="about.php"></a>
 							</div>
 						</div>
 					</div>

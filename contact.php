@@ -22,7 +22,7 @@ include("sections/header.php");
 			<div class="map-boxed">
 				<!-- Map Outer -->
 				<div class="map-outer">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31200.564585866076!2d-77.02866975909781!3d-12.17559849189501!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105b9ee9601d879%3A0x8a38870bcc8eab22!2sTottus!5e0!3m2!1ses!2spe!4v1642530335798!5m2!1ses!2spe" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.784173709439!2d-77.06340658180525!3d-11.989425120578666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105ce53ca933687%3A0xc02c6d4d01004fbd!2sGalerias%20San%20Lazaro!5e0!3m2!1ses!2spe!4v1642552464961!5m2!1ses!2spe" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 				</div>
 			</div>
 		</div>
@@ -119,118 +119,114 @@ include("sections/header.php");
 </section>
 <!-- End Contact Info Section -->
 
-<!-- CTA Section -->
-<section class="cta-section">
-	<div class="auto-container">
-		<div class="inner-container">
-			<div class="image">
-				<img src="images/resource/cta.jpg" alt="">
+				<!-- CTA Section -->
+				<section class="cta-section">
+			<div class="auto-container">
+				<div class="inner-container">
+					<div class="image">
+						<img src="images/resource/cta.jpg" alt="">
+					</div>
+					<div class="content">
+						<h2>¡Comuniquese con los<br> Expertos ahora!</h2>
+						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt">Cotización <i class="arrow flaticon-right"></i></span></a>
+					</div>
+					<div class="hammer-image">
+						<img src="images/resource/hammer.png" alt="">
+					</div>
+				</div>
 			</div>
-			<div class="content">
-				<h2>¡Comuniquese con los<br> Expertos ahora!</h2>
-				<a href="contact.html" class="theme-btn btn-style-two"><span class="txt">Cotización <i class="arrow flaticon-right"></i></span></a>
-			</div>
-			<div class="hammer-image">
-				<img src="images/resource/hammer.png" alt="">
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End CTA Section -->
+		</section>
+		<!-- End CTA Section -->
 
-<!-- Main Footer -->
-<footer class="main-footer">
-	<div class="auto-container">
-		<!-- Widgets Section -->
-		<div class="widgets-section">
-			<!-- Scroll To Top -->
-			<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
-			<div class="row clearfix">
-
-				<!-- Big Column -->
-				<div class="big-column col-lg-6 col-md-12 col-sm-12">
+		<!-- Main Footer -->
+		<footer class="main-footer">
+			<div class="auto-container">
+				<!-- Widgets Section -->
+				<div class="widgets-section">
+					<!-- Scroll To Top -->
+					<div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></div>
 					<div class="row clearfix">
 
-						<!--Footer Column-->
-						<div class="footer-column col-lg-7 col-md-6 col-sm-12">
-							<div class="footer-widget logo-widget">
-								<div class="logo">
-									<a href="index.html"><img src="images/fontsLogo_white3.png" alt=""></a>
+						<!-- Big Column -->
+						<div class="big-column col-lg-6 col-md-12 col-sm-12">
+							<div class="row clearfix">
+
+								<!--Footer Column-->
+								<div class="footer-column col-lg-7 col-md-6 col-sm-12">
+									<div class="footer-widget logo-widget">
+										<div class="logo">
+											<a href="index.html"><img src="images/fontsLogo_white3.png" alt=""></a>
+										</div>
+										<div class="text">Somos un equipo especializado en el asesoramiento a empresas o personas naturales...</div>
+										<!-- Social Nav -->
+										<ul class="social-nav">
+											<li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
+											<li><a href="#"><span class="fa fa-twitter"></span></a></li>
+											<li><a href="#"><span class="fa fa-linkedin"></span></a></li>
+										</ul>
+									</div>
 								</div>
-								<div class="text">Somos un equipo especializado en el asesoramiento a empresas o personas naturales...</div>
-								<!-- Social Nav -->
-								<ul class="social-nav">
-									<li><a href="#"><span class="fa fa-facebook-f"></span></a></li>
-									<li><a href="#"><span class="fa fa-twitter"></span></a></li>
-									<li><a href="#"><span class="fa fa-linkedin"></span></a></li>
-								</ul>
+
+								<!--Footer Column-->
+								<div class="footer-column col-lg-5 col-md-6 col-sm-12">
+									<div class="footer-widget links-widget">
+										<h5>Enlaces</h5>
+										<ul class="footer-list">
+											<li><a href="index.php">Inicio</a></li>
+											<li><a href="about.php">Nosotros</a></li>
+											<li><a href="services.php">Servicios</a></li>
+											<li><a href="contact.php">Contactanos</a></li>
+										</ul>
+									</div>
+								</div>
+
 							</div>
 						</div>
 
-						<!--Footer Column-->
-						<div class="footer-column col-lg-5 col-md-6 col-sm-12">
-							<div class="footer-widget links-widget">
-								<h5>Enlaces</h5>
-								<ul class="footer-list">
-									<li><a href="index.php">Inicio</a></li>
-									<li><a href="about.php">Nosotros</a></li>
-									<li><a href="services.php">Servicios</a></li>
-									<li><a href="contact.php">Contactanos</a></li>				
-								</ul>
-							</div>
-						</div>
+						<!-- Big Column -->
+						<div class="big-column col-lg-6 col-md-12 col-sm-12">
+							<div class="row clearfix">
 
-					</div>
-				</div>
+								<!-- Footer Column -->
+								<div class="footer-column col-lg-6 col-md-6 col-sm-12">
+									<div class="footer-widget contact-widget">
+										<h5>información</h5>
+										<ul>
+											<li>
+												<span class="icon flaticon-call-1"></span>
+												<a href="tel:+51928167202">928 167 202</a>
+											</li>
+											<li>
+												<span class="icon flaticon-call-1"></span>
+												<a href="tel:+51970417920">970 417 920</a>
+											<li>
+												<span class="icon flaticon-email-2"></span>
+												<a href="mailto:Info@counsellawfirm.com">abogados.corporativo.planning<br>@gmail.com</a>
+											</li>
+											<li>
+												<span class="icon flaticon-maps-and-flags"></span>
+												Av. Carlos Izaguirre N° 216 (Galería
+												“San Lázaro")
+											</li>
+										</ul>
+									</div>
+								</div>
 
-				<!-- Big Column -->
-				<div class="big-column col-lg-6 col-md-12 col-sm-12">
-					<div class="row clearfix">
-
-						<!-- Footer Column -->
-						<div class="footer-column col-lg-6 col-md-6 col-sm-12">
-							<div class="footer-widget contact-widget">
-								<h5>Información</h5>
-								<ul>
-									<li>
-										<span class="icon flaticon-call-1"></span>
-										<a href="tel:+61-3-8376-6284">928 167 202</a>
-									</li>
-									<li>
-										<span class="icon flaticon-call-1"></span>
-										<a href="tel:+00-9-0000-9999">970 417 920</a>
-									</li>
-									<li>
-										<span class="icon flaticon-call-1"></span>
-										<a href="tel:+00-9-0000-9999">(01) 390 3902</a>
-									</li>
-									<li>
-										<span class="icon flaticon-email-2"></span>
-										<a href="mailto:Info@counsellawfirm.com">abogados.corporativo.planning<br>@gmail.com</a>
-									</li>
-									<li>
-										<span class="icon flaticon-maps-and-flags"></span>
-										Av. Carlos Izaguirre N° 216 (Galería “San Lázaro")
-									</li>
-								</ul>
 							</div>
 						</div>
 
 					</div>
 				</div>
-
 			</div>
-		</div>
-	</div>
-	<div class="footer-bottom">
-		<div class="auto-container">
-			<div class="copyright">Copyright 2021, Counsel Law Firm. All Rights Reserved.</div>
-		</div>
-	</div>
-</footer>
+			<div class="footer-bottom">
+				<div class="auto-container">
+					<div class="copyright">Copyright 2021, Counsel Law Firm. All Rights Reserved.</div>
+				</div>
+			</div>
+		</footer>
 
-</div>
-<!--End pagewrapper-->
+	</div>
+	<!--End pagewrapper-->
 
 <!--Scroll to top-->
 <div class="scroll-to-top scroll-to-target" data-target="html"><span class="fa fa-arrow-up"></span></div>

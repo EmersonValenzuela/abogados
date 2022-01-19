@@ -7,7 +7,7 @@
 					</div>
 					<div class="content">
 						<h2>¡Comuniquese con los<br> Expertos ahora!</h2>
-						<a href="contact.html" class="theme-btn btn-style-two"><span class="txt">Cotización <i class="arrow flaticon-right"></i></span></a>
+						<a href="contact.php" class="theme-btn btn-style-two"><span class="txt">Cotización <i class="arrow flaticon-right"></i></span></a>
 					</div>
 					<div class="hammer-image">
 						<img src="images/resource/hammer.png" alt="">
@@ -73,16 +73,11 @@
 										<ul>
 											<li>
 												<span class="icon flaticon-call-1"></span>
-												<a href="tel:+61-3-8376-6284">928 167 202</a>
+												<a href="tel:+51928167202">928 167 202</a>
 											</li>
 											<li>
 												<span class="icon flaticon-call-1"></span>
-												<a href="tel:+00-9-0000-9999">970 417 920</a>
-											</li>
-											<li>
-												<span class="icon flaticon-call-1"></span>
-												<a href="tel:+00-9-0000-9999">(01) 390 3902</a>
-											</li>
+												<a href="tel:+51970417920">970 417 920</a>
 											<li>
 												<span class="icon flaticon-email-2"></span>
 												<a href="mailto:Info@counsellawfirm.com">abogados.corporativo.planning<br>@gmail.com</a>

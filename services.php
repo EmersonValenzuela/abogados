@@ -7,7 +7,7 @@
 		<div class="auto-container">
 			<h1>Servicios</h1>
 			<ul class="page-breadcrumb">
-				<li><a href="index.html">Inicio</a></li>
+				<li><a href="index.php">Inicio</a></li>
 				<li>Servicios</li>
 			</ul>
 		</div>
@@ -56,7 +56,7 @@
 								</div>
 							</div>
 							<div class="btns-box">
-								<a href="contact.html" class="theme-btn btn-style-two"><span class="txt">Consultanos Gratis <i class="arrow flaticon-right"></i></span></a>
+								<a href="contact.php" class="theme-btn btn-style-two"><span class="txt">Consultanos Gratis <i class="arrow flaticon-right"></i></span></a>
 							</div>
 						</div>
 					</div>
@@ -81,9 +81,8 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-car-1"></div>
-							<h5><a href="corporate_law.html">Derecho Civil</a></h5>
+							<h5><a href="#">Derecho Civil</a></h5>
 							<div class="text">Petición de herencia, indemnización por daños y perjuicios, alimentos, divorcios...</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
 						</div>
 					</div>
 
@@ -91,9 +90,8 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-briefcase"></div>
-							<h5><a href="corporate_law.html">Derecho Corporativo</a></h5>
+							<h5><a href="#">Derecho Corporativo</a></h5>
 							<div class="text">Reorganizaciones empresariales, sucursales, constitución de empresas, contratos comerciales...</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
 						</div>
 					</div>
 
@@ -101,9 +99,8 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-handcuffs-1"></div>
-							<h5><a href="corporate_law.html">Derecho Penal</a></h5>
+							<h5><a href="#">Derecho Penal</a></h5>
 							<div class="text">Delitos contra la vida, difamación, acoso, chantaje sexual, robo, estafa...</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
 						</div>
 					</div>
 
@@ -111,9 +108,8 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-save-money"></div>
-							<h5><a href="corporate_law.html">Derecho Tributario</a></h5>
+							<h5><a href="#">Derecho Tributario</a></h5>
 							<div class="text">Procedimientos tributarios en sede administrativa y/o judicial, devolución de impuestos, retenciones del IGV...</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
 						</div>
 					</div>
 
@@ -121,9 +117,8 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-auction"></div>
-							<h5><a href="corporate_law.html">Derecho Laboral</a></h5>
+							<h5><a href="#">Derecho Laboral</a></h5>
 							<div class="text">Contratación de personal, procedimientos de fiscalización, procedimientos administrativos y judiciales...</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
 						</div>
 					</div>
 
@@ -131,9 +126,8 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-law"></div>
-							<h5><a href="corporate_law.html">Derecho Aduanero y Migratorio</a></h5>
+							<h5><a href="#">Derecho Aduanero y Migratorio</a></h5>
 							<div class="text">Obtención del carné de extranjería, prórroga de residencia, regularización migratoria, obtención de la nacionalidad...</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
 						</div>
 					</div>
 
@@ -141,9 +135,8 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-balance"></div>
-							<h5><a href="corporate_law.html">Solución de Controversias</a></h5>
+							<h5><a href="#">Solución de Controversias</a></h5>
 							<div class="text">Patrocinamos en diferentes procesos judiciales en materia civil, laboral, administrativo, constitucional, penal.</div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
 						</div>
 					</div>
 
@@ -151,9 +144,8 @@
 					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner-box">
 							<div class="icon flaticon-notebook"></div>
-							<h5><a href="corporate_law.html">Derecho Municipal</a></h5>
+							<h5><a href="#">Derecho Municipal</a></h5>
 							<div class="text">Elaboramos descargos a papeletas, resoluciones de sanción, procedimientos sancionadores en general. </div>
-							<a class="arrow flaticon-right-arrow-3" href="corporate_law.html"></a>
 						</div>
 					</div>
 
