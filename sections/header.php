@@ -91,7 +91,7 @@
 				<div class="auto-container clearfix">
 					<!--Logo-->
 					<div class="logo pull-left">
-						<a href="index.php" title=""><img src="images/logoBlack.png" alt="" title=""></a>
+						<a href="index.php" title=""><img src="images/logoBlack2.png" alt="" title=""></a>
 					</div>
 					<!--Right Col-->
 					<div class="pull-right">

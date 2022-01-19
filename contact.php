@@ -97,8 +97,8 @@ include("sections/header.php");
 					<div class="icon flaticon-smartphone"></div>
 					<h5>Telefono</h5>
 					<ul class="info-list">
-						<li><a href="tel:+0-589-96369-95823">928 167 202</a></li>
-						<li><a href="tel:+0-825-63596-471254">970 417 920</a></li>
+						<li><a href="tel:+51928167202">928 167 202</a></li>
+						<li><a href="tel:+51970417920">970 417 920</a></li>
 					</ul>
 				</div>
 			</div>
@@ -109,7 +109,7 @@ include("sections/header.php");
 					<div class="icon flaticon-email-3"></div>
 					<h5>Gmail</h5>
 					<ul class="info-list">
-						<li><a href="mailto:Counsellaw@gmail.com">abogados.corporativo.planning@gmail.com</a></li>
+						<li><a href="mailto:abogados.corporativo.planning@gmail.com">abogados.corporativo.planning@gmail.com</a></li>
 					</ul>
 				</div>
 			</div>

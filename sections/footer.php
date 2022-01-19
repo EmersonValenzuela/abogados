@@ -80,7 +80,7 @@
 												<a href="tel:+51970417920">970 417 920</a>
 											<li>
 												<span class="icon flaticon-email-2"></span>
-												<a href="mailto:Info@counsellawfirm.com">abogados.corporativo.planning<br>@gmail.com</a>
+												<a href="mailto:abogados.corporativo.planning@gmail.com">abogados.corporativo.planning<br>@gmail.com</a>
 											</li>
 											<li>
 												<span class="icon flaticon-maps-and-flags"></span>
