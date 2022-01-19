@@ -43,7 +43,7 @@ $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
 
 if(mail($to,$subject,$message,$headers)){
     
-    header("location:contact.php");
+    header("location:index.php");
 
 }else{
             
