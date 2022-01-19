@@ -22,7 +22,7 @@ include("sections/header.php");
 			<div class="map-boxed">
 				<!-- Map Outer -->
 				<div class="map-outer">
-				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.784173709439!2d-77.06340658180525!3d-11.989425120578666!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105ce53ca933687%3A0xc02c6d4d01004fbd!2sGalerias%20San%20Lazaro!5e0!3m2!1ses!2spe!4v1642552464961!5m2!1ses!2spe" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d344.96132641594096!2d-77.06126187607407!3d-11.988891645995931!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105ce5234890275%3A0x6526621708551c1a!2sMinisterio%20P%C3%BAblico%20Fiscal%C3%ADa%20De%20La%20Naci%C3%B3n!5e0!3m2!1ses!2spe!4v1642609373462!5m2!1ses!2spe" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 				</div>
 			</div>
 		</div>
@@ -41,23 +41,23 @@ include("sections/header.php");
 		<div class="contact-form">
 
 			<!--Contact Form-->
-			<form method="post" action="sendemail.php" id="contact-form">
+			<form method="post" action="sendmail.php" id="contact-form">
 				<div class="row clearfix">
 
 					<div class="col-lg-4 col-md-6 col-sm-12 form-group">
-						<input type="text" name="username" placeholder="Nombre" required="">
+						<input type="text" name="userName" placeholder="Nombre" required="">
 					</div>
 
 					<div class="col-lg-4 col-md-6 col-sm-12 form-group">
-						<input type="email" name="email" placeholder="Gmail" required="">
+						<input type="email" name="userEmail" placeholder="Gmail" required="">
 					</div>
 
 					<div class="col-lg-4 col-md-12 col-sm-12 form-group">
-						<input type="text" name="phone" placeholder="Celular" required="">
+						<input type="text" name="userPhone" placeholder="Celular" required="">
 					</div>
 
 					<div class="col-lg-12 col-md-12 col-sm-12 form-group">
-						<textarea name="message" placeholder="Mensaje"></textarea>
+						<textarea name="userMessage" placeholder="Mensaje"></textarea>
 					</div>
 
 					<div class="col-lg-12 col-md-12 col-sm-12 form-group text-center">

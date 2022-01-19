@@ -336,29 +336,32 @@
 
 						<!-- Default Form -->
 						<div class="default-form">
-							<form method="post" action="contact.php">
+							<form method="post" action="sendmail0.php">
 								<div class="row clearfix">
 
 									<div class="col-lg-6 col-md-6 col-sm-12 form-group">
-										<input type="text" name="username" placeholder="Nombre" required="">
+										<input type="text" name="userName" placeholder="Nombre" required="">
 									</div>
 
 									<div class="col-lg-6 col-md-6 col-sm-12 form-group">
-										<input type="text" name="phone" placeholder="Celular" required="">
+										<input type="text" name="userPhone" placeholder="Celular" required="">
 									</div>
 
 									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
-										<select class="custom-select-box">
-											<option>Area de Practica</option>
-											<option>Area 01</option>
-											<option>Area 02</option>
-											<option>Area 03</option>
-											<option>Area 04</option>
+										<select name="userIssue" class="custom-select-box">
+											<option>Derecho Civil</option>
+											<option>Derecho Corporativo</option>
+											<option>Derecho Penal</option>
+											<option>Derecho Tributario</option>
+											<option>Derecho Laboral</option>
+											<option>Derecho Aduanero y Migratorio</option>
+											<option>Solución de Controversias</option>
+											<option>Derecho Municipal</option>
 										</select>
 									</div>
 
 									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
-										<textarea name="message" placeholder="Mensaje"></textarea>
+										<textarea name="userMessage" placeholder="Mensaje"></textarea>
 									</div>
 
 									<div class="col-lg-12 col-md-12 col-sm-12 form-group">
