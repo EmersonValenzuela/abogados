@@ -138,8 +138,8 @@ include("sections/header.php");
 		</section>
 		<!-- End CTA Section -->
 		<div class="whatsapp-escritorio">
-					<a class="btn-whatsapp" target="_blank" href="https://api.whatsapp.com/send?phone=981167202&text=Hola,%20estoy%20interesado%20en%20sus%20servicios" style="background-color: #e1a122;"><i class="fa fa-whatsapp"></i><label>Atenci&oacute;n Inmediata <br>
-							<span>981167202</span></label></a>
+					<a class="btn-whatsapp" target="_blank" href="https://api.whatsapp.com/send?phone=51928167202&text=Hola,%20estoy%20interesado%20en%20sus%20servicios" style="background-color: #e1a122;"><i class="fa fa-whatsapp"></i><label>Atenci&oacute;n Inmediata <br>
+							<span>928 167 202</span></label></a>
 				</div>
 
 				<div class="whatsapp-movil">
@@ -147,7 +147,7 @@ include("sections/header.php");
 						<p>Atenci&oacute;n inmediata:</p>
 					</div>
 					<button class="btn-whatsapp" id="cambiar">
-						<a target="_blank" href="https://api.whatsapp.com/send?phone=981167202&text=Hola,%20estoy%20interesado%20en%20sus%20servicios"><i class="fa fa-whatsapp"></i></a>
+						<a target="_blank" href="https://api.whatsapp.com/send?phone=51928167202&text=Hola,%20estoy%20interesado%20en%20sus%20servicios"><i class="fa fa-whatsapp"></i></a>
 					</button>
 				</div>
 		<!-- Main Footer -->
