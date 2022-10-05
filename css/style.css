@@ -261,6 +261,35 @@ img{
 	font-family: "Flaticon";
 }
 
+
+/* List Style Two */
+
+.list-style-two{
+	position:relative;
+}
+
+.list-style-two li{
+	position:relative;
+	color:#575d6e;
+	font-size:15px;
+	padding-left:30px;
+	font-weight:400;
+	line-height:1.6em;
+	margin-bottom:12px;
+	
+}
+
+.list-style-two li:before{
+	position:absolute;
+	content: "\f1a3";
+	left:0px;
+	top:5px;
+	color:#e1a122;
+	font-size:18px;
+	line-height:1em;
+	font-family: "Flaticon";
+}
+
 /*Btn Style One*/
 
 .btn-style-one{

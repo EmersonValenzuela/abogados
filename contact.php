@@ -137,7 +137,19 @@ include("sections/header.php");
 			</div>
 		</section>
 		<!-- End CTA Section -->
+		<div class="whatsapp-escritorio">
+					<a class="btn-whatsapp" target="_blank" href="https://api.whatsapp.com/send?phone=981167202&text=Hola,%20estoy%20interesado%20en%20sus%20servicios" style="background-color: #e1a122;"><i class="fa fa-whatsapp"></i><label>Atenci&oacute;n Inmediata <br>
+							<span>981167202</span></label></a>
+				</div>
 
+				<div class="whatsapp-movil">
+					<div class="btn-whatsapp btn-atencion">
+						<p>Atenci&oacute;n inmediata:</p>
+					</div>
+					<button class="btn-whatsapp" id="cambiar">
+						<a target="_blank" href="https://api.whatsapp.com/send?phone=981167202&text=Hola,%20estoy%20interesado%20en%20sus%20servicios"><i class="fa fa-whatsapp"></i></a>
+					</button>
+				</div>
 		<!-- Main Footer -->
 		<footer class="main-footer">
 			<div class="auto-container">

@@ -36,11 +36,11 @@
 								<!-- Sec Title -->
 								<div class="sec-title">
 									<h2>Somos Especialistas</h2>
-									<div class="text">Somos un equipo especializado en el asesoramiento a empresas o personas naturales en temas de Derecho Empresarial, Tributario, Penal, Laboral, Civil, Derechos de Propiedad Intelectual, Derechos del Consumidor, Derecho Aduanero, Derecho Internacional de los Negocios, Derecho Administrativo y la Ley de Contrataciones y Adquisiciones del Estado.</div>
+									<div class="text">Nuestro estudio de abogados ofrece a los clientes asesoría legal especializada, a través de nuestro staff de abogados altamente capacitados y con experiencia en las diversas áreas del derecho. Brindamos asesoría jurídica de la más alta calidad, personalizando la relación con nuestros clientes, generándoles seguridad y comodidad, logrando formar, de esta manera, relaciones de estrecha confianza y de largo plazo.</div>
 								</div>
 								<div class="text-box">
 									Nosotros nos encargaremos de solucionar tus problemas. ¡Comuniquese con Nosotros!
-									<a href="#" class="arrow flaticon-right"></a>
+									<a href="contact.php" class="arrow flaticon-right"></a>
 								</div>
 							</div>
 						</div>
@@ -93,71 +93,6 @@
 		<!-- End Services Section Two -->
 
 
-		<!-- Team Section -->
-		<section class="team-section">
-			<div class="auto-container">
-				<!-- Sec Title -->
-				<div class="sec-title centered">
-					<h2>Nuestro Equipo de Profesionales</h2>
-				</div>
-				<div class="row clearfix">
-
-					<!-- Team Block -->
-					<div class="team-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
-							<div class="image">
-								<img src="images/resource/team-1.jpg" alt="">
-							</div>
-							<div class="lower-box">
-								<h5><a href="#">Chris JAriko</a></h5>
-								<div class="designation">Founder and Ceo</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Team Block -->
-					<div class="team-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInLeft" data-wow-delay="150ms" data-wow-duration="1500ms">
-							<div class="image">
-								<img src="images/resource/team-2.jpg" alt="">
-							</div>
-							<div class="lower-box">
-								<h5><a href="#">ALina Kevin</a></h5>
-								<div class="designation">Senior Attorney</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Team Block -->
-					<div class="team-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
-							<div class="image">
-								<img src="images/resource/team-3.jpg" alt="">
-							</div>
-							<div class="lower-box">
-								<h5><a href="#">Senior Attorney</a></h5>
-								<div class="designation">Junior Attorney</div>
-							</div>
-						</div>
-					</div>
-
-					<!-- Team Block -->
-					<div class="team-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box wow fadeInLeft" data-wow-delay="450ms" data-wow-duration="1500ms">
-							<div class="image">
-								<img src="images/resource/team-4.jpg" alt="">
-							</div>
-							<div class="lower-box">
-								<h5><a href="#">Polard Andrew</a></h5>
-								<div class="designation">Financial Attorney</div>
-							</div>
-						</div>
-					</div>
-
-				</div>
-			</div>
-		</section>
-		<!-- End Team Section -->
 
 		<?php
 	include("sections/footer.php");

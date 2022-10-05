@@ -35,7 +35,7 @@
 							<!-- Sec Title -->
 							<div class="sec-title">
 								<h2>Te Ofrecemos...</h2>
-								<div class="text">Contamos con profesionales formados en las diferentes ramas jurídicas en las que habitualmente se suelen plantear conflictos para cuya resolución es imprescindible estar acompañado de abogados de primer nivel.</div>
+								<div class="text">Estamos convencidos que la unión y las soluciones integrales son las más eficientes. Por tanto, planteamos asesorías técnicas y legales, de manera conjunta con nuestros asociados y consejeros, quienes por su experiencia y especialidad proyectan una solución desde las distintas ramas del derecho.</div>
 							</div>
 							<div class="row clearfix">
 								<div class="column col-lg-6 col-md-6 col-sm-6">
@@ -76,79 +76,81 @@
 			</div>
 			<div class="inner-container">
 				<div class="clearfix">
+					<div class="row">
+						<!-- Practice Block -->
+						<div class="practice-block col-lg-3 col-md-6 col-sm-12">
+							<div class="inner-box">
+								<div class="icon flaticon-car-1"></div>
+								<h5><a href="#">Derecho Civil</a></h5>
+								<div class="text">Ofrecemos asesoría y patrocinio integral para la detección de posibles riesgos transaccionales y de esta forma evitar posibles contingencias que perjudique los intereses de nuestros clientes.</div>
+							</div>
+						</div>
 
-					<!-- Practice Block -->
-					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="icon flaticon-car-1"></div>
-							<h5><a href="#">Derecho Civil</a></h5>
-							<div class="text">Petición de herencia, indemnización por daños y perjuicios, alimentos, divorcios...</div>
+						<!-- Practice Block -->
+						<div class="practice-block col-lg-3 col-md-6 col-sm-12">
+							<div class="inner-box">
+								<div class="icon flaticon-briefcase"></div>
+								<h5><a href="#">Derecho Corporativo</a></h5>
+								<div class="text">Redacción y modificación de estatutos, creación de empresas, convenio de accionistas, reorganización de empresas, fusiones, reestructuración, liquidación y disolución de empresa.</div>
+							</div>
+						</div>
+
+						<!-- Practice Block -->
+						<div class="practice-block col-lg-3 col-md-6 col-sm-12">
+							<div class="inner-box">
+								<div class="icon flaticon-handcuffs-1"></div>
+								<h5><a href="#">Derecho Penal</a></h5>
+								<div class="text">Consultoría, asesoría y patrocinio en delitos individuales, bandas y organizaciones criminales.Tráfico ilícito de drogas, lavado de activos, delitos ambientales y especializados en delitos cometidos por organizaciones criminales.</div>
+							</div>
+						</div>
+
+						<!-- Practice Block -->
+						<div class="practice-block col-lg-3 col-md-6 col-sm-12">
+							<div class="inner-box">
+								<div class="icon flaticon-save-money"></div>
+								<h5><a href="#">Derecho Tributario</a></h5>
+								<div class="text">Procedimientos tributarios en sede administrativa y/o judicial, solicitudes de fraccionamiento, prescripción, devolución de impuestos, retenciones del IGV, pago de impuestos en exceso o indebidos, etc.</div>
+							</div>
 						</div>
 					</div>
+					<div class="row">
+						<!-- Practice Block -->
+						<div class="practice-block col-lg-3 col-md-6 col-sm-12">
+							<div class="inner-box">
+								<div class="icon flaticon-auction"></div>
+								<h5><a href="#">Derecho Laboral</a></h5>
+								<div class="text">Relaciones laborales individuales, negociación colectiva, impuestos laborales y auditorías, contratación de personal, procedimientos de fiscalización, procedimientos administrativos y judiciales, etc.</div>
+							</div>
+						</div>
 
-					<!-- Practice Block -->
-					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="icon flaticon-briefcase"></div>
-							<h5><a href="#">Derecho Corporativo</a></h5>
-							<div class="text">Reorganizaciones empresariales, sucursales, constitución de empresas, contratos comerciales...</div>
+						<!-- Practice Block -->
+						<div class="practice-block col-lg-3 col-md-6 col-sm-12">
+							<div class="inner-box">
+								<div class="icon flaticon-law"></div>
+								<h5><a href="#">Derecho Aduanero y Migratorio</a></h5>
+								<div class="text">Obtención del carné de extranjería, prórroga de residencia, cambio de domicilio, regularización migratoria, permiso para firmar contratos, visa para trabajar en Perú, apostilla, obtención de la nacionalidad, etc.
+								</div>
+							</div>
+						</div>
+
+						<!-- Practice Block -->
+						<div class="practice-block col-lg-3 col-md-6 col-sm-12">
+							<div class="inner-box">
+								<div class="icon flaticon-balance"></div>
+								<h5><a href="#">Solución de Controversias</a></h5>
+								<div class="text">Patrocinamos en diferentes procesos judiciales en materia civil, laboral, administrativo, constitucional, penal.</div>
+							</div>
+						</div>
+
+						<!-- Practice Block -->
+						<div class="practice-block col-lg-3 col-md-6 col-sm-12">
+							<div class="inner-box">
+								<div class="icon flaticon-notebook"></div>
+								<h5><a href="#">Derecho Municipal</a></h5>
+								<div class="text">Asesoramos en la obtención de autorizaciones, licencias y permisos administrativos. Elaboramos descargos a papeletas, resoluciones de sanción, procedimientos sancionadores en general. </div>
+							</div>
 						</div>
 					</div>
-
-					<!-- Practice Block -->
-					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="icon flaticon-handcuffs-1"></div>
-							<h5><a href="#">Derecho Penal</a></h5>
-							<div class="text">Delitos contra la vida, difamación, acoso, chantaje sexual, robo, estafa...</div>
-						</div>
-					</div>
-
-					<!-- Practice Block -->
-					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="icon flaticon-save-money"></div>
-							<h5><a href="#">Derecho Tributario</a></h5>
-							<div class="text">Procedimientos tributarios en sede administrativa y/o judicial, devolución de impuestos, retenciones del IGV...</div>
-						</div>
-					</div>
-
-					<!-- Practice Block -->
-					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="icon flaticon-auction"></div>
-							<h5><a href="#">Derecho Laboral</a></h5>
-							<div class="text">Contratación de personal, procedimientos de fiscalización, procedimientos administrativos y judiciales...</div>
-						</div>
-					</div>
-
-					<!-- Practice Block -->
-					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="icon flaticon-law"></div>
-							<h5><a href="#">Derecho Aduanero y Migratorio</a></h5>
-							<div class="text">Obtención del carné de extranjería, prórroga de residencia, regularización migratoria, obtención de la nacionalidad...</div>
-						</div>
-					</div>
-
-					<!-- Practice Block -->
-					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="icon flaticon-balance"></div>
-							<h5><a href="#">Solución de Controversias</a></h5>
-							<div class="text">Patrocinamos en diferentes procesos judiciales en materia civil, laboral, administrativo, constitucional, penal.</div>
-						</div>
-					</div>
-
-					<!-- Practice Block -->
-					<div class="practice-block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner-box">
-							<div class="icon flaticon-notebook"></div>
-							<h5><a href="#">Derecho Municipal</a></h5>
-							<div class="text">Elaboramos descargos a papeletas, resoluciones de sanción, procedimientos sancionadores en general. </div>
-						</div>
-					</div>
-
 				</div>
 			</div>
 		</div>

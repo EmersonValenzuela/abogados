@@ -17,7 +17,83 @@
 	<!-- Responsive -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+	<style>
+		/*Whatsapp*/
+		.whatsapp-movil {
+			display: none;
+		}
 
+		.btn-whatsapp {
+			border-top-left-radius: 10px;
+			border-bottom-left-radius: 10px;
+			background: #e1a122;
+			position: fixed;
+			right: 0;
+			padding: 10px 10px 5px;
+			color: white;
+			z-index: 1500;
+			top: 65%;
+			font-size: 14px;
+			text-align: center;
+			border: 2px solid #fff;
+		}
+
+		.btn-whatsapp.btn-atencion {
+			border-top-left-radius: 10px;
+			border-bottom-left-radius: 10px;
+			background: #e1a122;
+			position: fixed;
+			right: 0;
+			padding: 0 10px;
+			color: white;
+			z-index: 1500;
+			top: 60%;
+			font-size: 18px;
+			text-align: center;
+			border: none;
+		}
+
+		.btn-whatsapp.btn-atencion p {
+			margin-bottom: 0;
+			color: #fff;
+		}
+
+		.btn-whatsapp i {
+			color: white;
+			font-size: 2.8em;
+			margin-right: 5px;
+		}
+
+		.btn-whatsapp label {
+			display: inline-block;
+			color: white;
+		}
+
+		.btn-whatsapp label span {
+			color: white;
+			font-size: 22px;
+			text-align: center;
+		}
+
+		.btn-whatsapp:hover,
+		.btn-whatsapp:focus {
+			color: white;
+		}
+
+		@media only screen and (max-width: 767px) {
+			.whatsapp-movil {
+				display: block;
+			}
+
+			.whatsapp-escritorio {
+				display: none;
+			}
+
+			.btn-whatsapp i {
+				margin-right: 0;
+			}
+		}
+	</style>
 	<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script><![endif]-->
 	<!--[if lt IE 9]><script src="js/respond.js"></script><![endif]-->
 </head>
@@ -55,7 +131,7 @@
 
 							<div class="navbar-collapse collapse clearfix" id="navbarSupportedContent">
 								<ul class="navigation clearfix">
-                                    <li><a href="index.php"> Inicio</a></li>
+									<li><a href="index.php"> Inicio</a></li>
 									<li><a href="about.php">Nosotros</a></li>
 									<li><a href="services.php">Servicios</a></li>
 								</ul>
