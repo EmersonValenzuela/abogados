@@ -99,7 +99,7 @@
 					</div>
 					<div class="footer-bottom">
 						<div class="auto-container">
-							<div class="copyright">Copyright 2021, Counsel Law Firm. All Rights Reserved.</div>
+							<div class="copyright">Copyright 2021, Servitec Peru. Todos los derechos reservados.</div>
 						</div>
 					</div>
 				</footer>

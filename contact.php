@@ -139,7 +139,7 @@ include("sections/header.php");
 		<!-- End CTA Section -->
 		<div class="whatsapp-escritorio">
 					<a class="btn-whatsapp" target="_blank" href="https://api.whatsapp.com/send?phone=51928167202&text=Hola,%20estoy%20interesado%20en%20sus%20servicios" style="background-color: #e1a122;"><i class="fa fa-whatsapp"></i><label>Atenci&oacute;n Inmediata <br>
-							<span>928 167 202</span></label></a>
+							<span>928167202</span></label></a>
 				</div>
 
 				<div class="whatsapp-movil">
