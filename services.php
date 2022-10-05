@@ -35,7 +35,9 @@
 							<!-- Sec Title -->
 							<div class="sec-title">
 								<h2>Te Ofrecemos...</h2>
-								<div class="text">Estamos convencidos que la unión y las soluciones integrales son las más eficientes. Por tanto, planteamos asesorías técnicas y legales, de manera conjunta con nuestros asociados y consejeros, quienes por su experiencia y especialidad proyectan una solución desde las distintas ramas del derecho.</div>
+								<div class="text">
+								Nuestros servicios se caracterizan en obtener soluciones integrales, que dinamicen y estabilicen el estado económico de nuestros patrocinados. Trabajamos con objetivos viables, y perseveramos hasta cumplirlos. Somos leales a nuestra palabra y compromisos que asumimos. Dirigimos todas nuestras gestiones a un resultado eficiente y eficaz no solo para nuestros clientes, sino para la sociedad y el desarrollo sostenible.
+								</div>
 							</div>
 							<div class="row clearfix">
 								<div class="column col-lg-6 col-md-6 col-sm-6">

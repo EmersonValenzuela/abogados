@@ -33,7 +33,6 @@
 			color: white;
 			z-index: 1500;
 			top: 65%;
-			font-size: 14px;
 			text-align: center;
 			border: 2px solid #fff;
 		}
