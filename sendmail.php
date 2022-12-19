@@ -4,7 +4,7 @@
 
 $subject = "Corporativo Planning Consultas";
 
-$emailsSend = ["beto1perk@gmail.com","valenzuelaestradam@gmail.com"];
+$emailsSend = ["beto1perk@gmail.com","valenzuelaestradam@gmail.com","abogados@corporativoplanning.com"];
 
 $to = "$emailsSend[0],$emailsSend[1]";
 
