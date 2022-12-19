@@ -150,7 +150,7 @@
 								<div class="box-inner">
 									<span class="icon flaticon-smartphone-1"></span>
 									¡Llámenos hoy!
-									<strong>981 167 202</strong>
+									<strong>948 122 795</strong>
 								</div>
 							</div>
 

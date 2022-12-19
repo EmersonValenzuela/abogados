@@ -77,7 +77,7 @@
 													</li>
 													<li>
 														<span class="icon flaticon-call-1"></span>
-														<a href="tel:+51970417920">970 417 920</a>
+														<a href="tel:016780192">01 6780192</a>
 													<li>
 														<span class="icon flaticon-email-2"></span>
 														<a href="mailto:abogados.corporativo.planning@gmail.com">abogados.corporativo.planning<br>@gmail.com</a>
@@ -108,8 +108,8 @@
 				<!--End pagewrapper-->
 
 				<div class="whatsapp-escritorio">
-					<a class="btn-whatsapp" target="_blank" href="https://api.whatsapp.com/send?phone=51928167202&text=Hola,%20estoy%20interesado%20en%20sus%20servicios" style="background-color: #e1a122;"><i class="fa fa-whatsapp"></i><label>Atenci&oacute;n Inmediata <br>
-							<span>928 167 202</span></label></a>
+					<a class="btn-whatsapp" target="_blank" href="https://api.whatsapp.com/send?phone=51948122795&text=Hola,%20estoy%20interesado%20en%20sus%20servicios" style="background-color: #e1a122;"><i class="fa fa-whatsapp"></i><label>Atenci&oacute;n Inmediata <br>
+							<span>948 122 795</span></label></a>
 				</div>
 
 				<div class="whatsapp-movil">
@@ -117,7 +117,7 @@
 						<p>Atenci&oacute;n inmediata:</p>
 					</div>
 					<button class="btn-whatsapp" id="cambiar">
-						<a target="_blank" href="https://api.whatsapp.com/send?phone=51928167202&text=Hola,%20estoy%20interesado%20en%20sus%20servicios"><i class="fa fa-whatsapp"></i></a>
+						<a target="_blank" href="https://api.whatsapp.com/send?phone=51948122795&text=Hola,%20estoy%20interesado%20en%20sus%20servicios"><i class="fa fa-whatsapp"></i></a>
 					</button>
 				</div>
 
